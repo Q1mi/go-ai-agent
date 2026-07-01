@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mcp-go-demo": {
+      "type": "stdio",
+      "command": "go",
+      "args": ["run", "./cmd/mcpgo-server"]
+    }
+  }
+}
