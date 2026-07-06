@@ -1,0 +1,4 @@
+bin/
+spans.json
+.DS_Store
+.env
